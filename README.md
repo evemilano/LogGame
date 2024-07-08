@@ -58,3 +58,5 @@ This project is a graphical application built using Pygame to visualize real-tim
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Made by https://www.evemilano.com
