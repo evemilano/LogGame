@@ -1,5 +1,5 @@
 # Web Server Log Monitor Game
-![LogGame](images/Xh7KgljWfS.png)
+![LogGame](Xh7KgljWfS.png)
 
 This project is a graphical application built using Pygame to visualize real-time web server log data. It reads log entries from a remote server, parses them, and represents each client request graphically. This can be useful for understanding the traffic and behavior of a web server in a dynamic and interactive way.
 
