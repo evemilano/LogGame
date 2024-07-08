@@ -19,7 +19,7 @@ This project is a graphical application built using Pygame to visualize real-tim
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/web-server-log-monitor-game.git
+   git clone https://github.com/evemilano/LogGame.git
    cd web-server-log-monitor-game
 
 2. Install the dependencies:
